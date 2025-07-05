@@ -29,13 +29,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Installation
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/[YOUR_GITHUB_USERNAME]/[YOUR_REPO_NAME].git
-    cd [YOUR_REPO_NAME]
-    ```
-
-2.  **Install dependencies:**
+1.  **Install dependencies:**
     ```bash
     npm install
     ```
